@@ -4,7 +4,7 @@ Plugin Name: Blog as PDF
 Plugin URI: https://rezehnde.com/
 Description: Export posts from your wordpress blog as PDF. Choose some
 or download all posts into a single PDF file.
-Version: 1.1
+Version: 1.2
 Author: Marcos Rezende
 Author URI: https://www.linkedin.com/in/rezehnde/
 */

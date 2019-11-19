@@ -3,8 +3,8 @@ Contributors: rezehnde
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RJD5395AA47U&source=url
 Tags: pdf, posts, ebook
 Requires at least: 4.0
-Tested up to: 5.0.2
-Version: 1.1
+Tested up to: 5.3
+Version: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,3 +26,4 @@ Export posts from your wordpress blog as PDF selecting some categories or downlo
 
 0.2 * Added 'export posts from categories' selecting only a single category
 1.0 Plugin review after nine years of abandon
+1.2 Path correction for tcpdf
